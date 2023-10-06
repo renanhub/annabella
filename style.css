@@ -1,0 +1,67 @@
+
+
+body {
+    background: url(documents/fundo.png);
+    margin: 0;
+    height: 100vh;
+    
+}
+
+.container-pai {
+    padding-top: 2%;
+
+}
+
+
+.btnnav{
+    border: 0px;
+    padding: 20px;
+    color: #FAF7E4;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.btnnav:hover {
+    background-color: #FAF7E4;
+    color: #95857D;
+    border: 2px white;
+    border-radius: 10 px;
+}
+
+.navbar {
+    font-family: 'Gotham';
+    font-size: 30px;
+    padding: 40px;
+    background: #D7CA93;
+}
+
+.sobre {
+    padding: 5%;
+    background: #FAF7E4;
+}
+
+#sobre-h2 {
+    font-family: 'Gotham';
+    color: #95857D;
+}
+
+p {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-family: 'Gotham';
+    text-align: justify;
+}
+
+#rodape {
+    padding: 40px;
+    font-family: 'Gotham';
+    text-align: center;
+    color: aliceblue;
+    background: #D7CA93;
+    
+}
+
+.image-campanha {
+    border: 10px solid #c3c3ae;
+}
